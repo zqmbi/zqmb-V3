@@ -180,6 +180,8 @@ mine.TextWrapped = true
 
 closebutton.Name = "Close"
 
+closebutton.TextColor3 = Color3.fromRGB(255, 255, 255)
+
 closebutton.Parent = main.Frame
 
 closebutton.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
