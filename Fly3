@@ -94,7 +94,7 @@ onof.TextSize = 14.000
 
 TextLabel.Parent = Frame
 
-TextLabel.BackgroundColor3 = Color3.fromRGB(100, 0, 0)
+TextLabel.BackgroundColor3 = Color3.fromRGB(120, 0, 0)
 
 TextLabel.Position = UDim2.new(0.469327301, 0, 0, 0)
 
@@ -182,7 +182,7 @@ closebutton.Name = "Close"
 
 closebutton.Parent = main.Frame
 
-closebutton.BackgroundColor3 = Color3.fromRGB(225, 25, 0)
+closebutton.BackgroundColor3 = Color3.fromRGB(66, 66, 66)
 
 closebutton.Font = "SourceSans"
 
