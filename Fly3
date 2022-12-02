@@ -44,7 +44,7 @@ up.Name = "up"
 
 up.Parent = Frame
 
-up.BackgroundColor3 = Color3.fromRGB(79, 255, 152)
+up.BackgroundColor3 = Color3.fromRGB(150, 150, 120)
 
 up.Size = UDim2.new(0, 44, 0, 28)
 
@@ -60,7 +60,7 @@ down.Name = "down"
 
 down.Parent = Frame
 
-down.BackgroundColor3 = Color3.fromRGB(215, 255, 121)
+down.BackgroundColor3 = Color3.fromRGB(150, 150, 120)
 
 down.Position = UDim2.new(0, 0, 0.491228074, 0)
 
@@ -88,7 +88,7 @@ onof.Font = Enum.Font.SourceSans
 
 onof.Text = "fly"
 
-onof.TextColor3 = Color3.fromRGB(0, 0, 0)
+onof.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 onof.TextSize = 14.000 
 
@@ -116,7 +116,7 @@ plus.Name = "plus"
 
 plus.Parent = Frame
 
-plus.BackgroundColor3 = Color3.fromRGB(133, 145, 255)
+plus.BackgroundColor3 = Color3.fromRGB(0, 0, 75)
 
 plus.Position = UDim2.new(0.231578946, 0, 0, 0)
 
@@ -126,7 +126,7 @@ plus.Font = Enum.Font.SourceSans
 
 plus.Text = "+"
 
-plus.TextColor3 = Color3.fromRGB(0, 0, 0)
+plus.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 plus.TextScaled = true
 
@@ -138,7 +138,7 @@ speed.Name = "speed"
 
 speed.Parent = Frame
 
-speed.BackgroundColor3 = Color3.fromRGB(255, 85, 0)
+speed.BackgroundColor3 = Color3.fromRGB(200, 80, 0)
 
 speed.Position = UDim2.new(0.468421042, 0, 0.491228074, 0)
 
@@ -160,7 +160,7 @@ mine.Name = "mine"
 
 mine.Parent = Frame
 
-mine.BackgroundColor3 = Color3.fromRGB(123, 255, 247)
+mine.BackgroundColor3 = Color3.fromRGB(0, 0, 75)
 
 mine.Position = UDim2.new(0.231578946, 0, 0.491228074, 0)
 
@@ -170,7 +170,7 @@ mine.Font = Enum.Font.SourceSans
 
 mine.Text = "-"
 
-mine.TextColor3 = Color3.fromRGB(0, 0, 0)
+mine.TextColor3 = Color3.fromRGB(255, 255, 255)
 
 mine.TextScaled = true
 
@@ -246,9 +246,9 @@ nowe = false
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 
-Title = "Fly GUI V3";
+Title = "zqmb V3";
 
-Text = "By me_ozone and Quandale The Dinglish XII#3550";
+Text = "By Sw7 insta:_zqmb ";
 
 Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 
